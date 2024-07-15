@@ -264,6 +264,16 @@ header{
 	height: 500px;
 	border: 1px solid red;
 }
+.blog-Stories{
+	width:50%;
+	height: 500px;
+	border: 1px solid red;
+}
+.blog-popular{
+	width:50%;
+	height: 500px;
+	border: 1px solid red;
+}
 /*blog_section Section end*/
 
 /*footer Section start*/
