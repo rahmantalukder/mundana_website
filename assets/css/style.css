@@ -10,6 +10,63 @@ body{
 	padding:0px;
 	margin:0px;
 }
+f-s-20{
+	font-size: 20px;
+}
+f-s-10{
+	font-size: 10px;
+}
+text-decoration{
+	text-decoration: none;
+}
+text-conter{
+	text-align: conter;
+}
+text-right{
+	text-align: right;
+}
+text-left{
+	text-align: right;
+}
+
+py-10{ 
+	padding-top: 10px;
+}
+py-10{ 
+	padding-right: 10px;
+}
+py-10{ 
+	padding-button: 10px;
+}
+py-10{ 
+	padding-left: 10px;
+}
+
+mt-10{
+	margin-top: 10px;
+}
+mr-10{
+	margin-right: 10px;
+}
+mb-10{
+	margin-button: 10px;
+}
+ml-10{
+	margin-left: 10px;
+}
+
+mt-20{
+	margin-top: 20px;
+}
+mr-20{
+	margin-right: 20px;
+}
+mb-20{
+	margin-button: 20px;
+}
+ml-20{
+	margin-left: 20px;
+}
 /*comman code*/
 
 /*navbar Section start*/
@@ -218,6 +275,7 @@ header{
 	width: 20%;
 	float: left;
 	height: 90px;
+	padding-right: 10px;
 }
 .about-us-poster img{
 	width: 100%;
@@ -265,15 +323,18 @@ header{
 	border: 1px solid red;
 }
 .blog-Stories{
-	width:50%;
-	height: 500px;
-	border: 1px solid red;
+	width: 50%;
+	height: 100%;
+	float: left;
+	border: 1px solid green;
 }
-.blog-popular{
-	width:50%;
-	height: 500px;
-	border: 1px solid red;
+.blog-Popular{
+	width: 50%;
+	height: 100%;
+	float: left;
+	border: 1px solid green;
 }
+
 /*blog_section Section end*/
 
 /*footer Section start*/
